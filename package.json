@@ -1,0 +1,22 @@
+{
+  "name": "vault-secrets-demo",
+  "version": "1.0.0",
+  "description": "Demonstração acadêmica de Gerenciamento de Segredos com HashiCorp Vault e Node.js",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "vault",
+    "hashicorp",
+    "security",
+    "secrets-management",
+    "node"
+  ],
+  "author": "Engenharia de Software / Segurança e Cloud",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
